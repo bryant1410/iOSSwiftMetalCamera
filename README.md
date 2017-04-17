@@ -1,4 +1,4 @@
-#iOSSwiftMetalCamera
+# iOSSwiftMetalCamera
 
 [Click here to see video demo.](https://www.youtube.com/watch?v=cM1ncSkGMUs)
 
